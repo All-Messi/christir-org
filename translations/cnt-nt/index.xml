@@ -121,32 +121,14 @@
 	{font-family:"Aptos Display";
 	panose-1:2 11 0 4 2 2 2 2 2 4;}
 @font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"PingFang TC";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"ACADEMY ENGRAVED LET PLAIN\:1\.0";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Thin";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Light";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Semibold";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Extrabol";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Heavy";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:AkayaKanadaka;
-	panose-1:2 1 5 2 8 4 1 1 1 3;}
-@font-face
-	{font-family:AkayaTelivigala;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Al Bayan Plain";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -174,9 +156,6 @@
 @font-face
 	{font-family:"Andale Mono";
 	panose-1:2 11 5 9 0 0 0 0 0 4;}
-@font-face
-	{font-family:"Annai MN";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Apple Chancery";
 	panose-1:3 2 7 2 4 5 6 6 5 4;}
@@ -247,51 +226,6 @@
 	{font-family:"Arial Narrow";
 	panose-1:2 11 6 6 2 2 2 3 2 4;}
 @font-face
-	{font-family:"Arima Koshi Thin";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi ExtraBold";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Thin";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Semi Bold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Bold";
-	panose-1:0 0 8 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Avenir Light";
 	panose-1:2 11 4 2 2 2 3 2 2 4;}
 @font-face
@@ -361,161 +295,8 @@
 	{font-family:Ayuthaya;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"BIZ UDGothic";
-	panose-1:2 11 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BIZ UDMincho";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BM DoHyeon OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM HANNA 11yrs old OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM HANNA Air OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM HANNA Pro OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM JUA OTF";
-	panose-1:2 2 6 3 2 1 1 2 1 1;}
-@font-face
-	{font-family:"BM KIRANGHAERANG OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM YEONSUNG OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
 	{font-family:Baghdad;
 	panose-1:1 0 5 0 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Bai Jamjuree ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Baloo 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaijaan";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
 @font-face
 	{font-family:"Bangla MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
@@ -531,12 +312,6 @@
 @font-face
 	{font-family:Beirut;
 	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BiauKaiHK Regular";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BiauKaiTC Regular";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Big Caslon Medium";
 	panose-1:2 0 6 3 9 0 0 2 0 3;}
@@ -565,24 +340,6 @@
 	{font-family:"Brush Script MT";
 	panose-1:3 6 8 2 4 4 6 7 3 4;}
 @font-face
-	{font-family:"Cambay Devanagari";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Chalkboard;
 	panose-1:3 5 6 2 4 2 2 2 2 5;}
 @font-face
@@ -594,12 +351,6 @@
 @font-face
 	{font-family:Chalkduster;
 	panose-1:3 5 6 2 4 2 2 2 2 5;}
-@font-face
-	{font-family:Charm;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Charmonman;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Charter Roman";
 	panose-1:2 4 5 3 5 5 6 2 2 3;}
@@ -624,12 +375,6 @@
 @font-face
 	{font-family:"Corsiva Hebrew";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Wawati SC";
-	panose-1:4 11 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Wawati TC";
-	panose-1:4 11 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"DIN Alternate";
 	panose-1:2 11 5 0 0 0 0 0 0 0;}
@@ -661,39 +406,6 @@
 	{font-family:"Euphemia UCAS";
 	panose-1:2 11 5 3 4 1 2 2 1 4;}
 @font-face
-	{font-family:"Lantinghei SC Extralight";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI SC DEMIBOLD";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI SC HEAVY";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lantinghei TC Extralight";
-	panose-1:3 0 5 9 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI TC DEMIBOLD";
-	panose-1:3 0 5 9 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI TC HEAVY";
-	panose-1:3 0 5 9 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Fahkwang;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Farisi;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
@@ -724,9 +436,6 @@
 	{font-family:Geneva;
 	panose-1:2 11 5 3 3 4 4 4 2 4;}
 @font-face
-	{font-family:Georgia;
-	panose-1:2 4 5 2 5 4 5 2 3 3;}
-@font-face
 	{font-family:"Gill Sans Light";
 	panose-1:2 11 3 2 2 1 4 2 2 3;}
 @font-face
@@ -736,22 +445,7 @@
 	{font-family:"GILL SANS SEMIBOLD";
 	panose-1:2 11 7 2 2 1 4 2 2 3;}
 @font-face
-	{font-family:Gotu;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tamil Sangam MN Light";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Tamil Sangam MN";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tamil Sangam MN Medium";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"TAMIL SANGAM MN DEMIBOLD";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"TAMIL SANGAM MN BLACK";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Grantha Sangam MN";
@@ -768,18 +462,6 @@
 @font-face
 	{font-family:"Gurmukhi Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Hannotate SC";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Hannotate TC";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"HanziPen SC";
-	panose-1:3 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"HanziPen TC";
-	panose-1:3 0 3 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Helvetica Light";
 	panose-1:2 11 4 3 2 2 2 2 2 4;}
@@ -883,12 +565,6 @@
 	{font-family:"Hiragino Kaku Gothic StdN W8";
 	panose-1:2 11 8 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Hiragino Sans CNS W3";
-	panose-1:2 11 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Hiragino Sans CNS W6";
-	panose-1:2 11 6 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Hiragino Sans GB W3";
 	panose-1:2 11 3 0 0 0 0 0 0 0;}
 @font-face
@@ -903,9 +579,6 @@
 @font-face
 	{font-family:"HOEFLER TEXT BLACK";
 	panose-1:2 3 8 2 6 7 6 2 2 3;}
-@font-face
-	{font-family:Hubballi;
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:ITFDEVANAGARI-LIGHT;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
@@ -943,45 +616,6 @@
 	{font-family:InaiMathi;
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:HeadLineA;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:PilGi;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:GungSeo;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:PCMyungjo;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Jaini;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Jaini Purva";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D Thin";
-	panose-1:0 0 2 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:K2D;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D ExtraBold";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Kailasa;
 	panose-1:2 0 5 0 0 0 0 2 0 4;}
 @font-face
@@ -991,18 +625,6 @@
 	{font-family:"Kannada Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:Katari;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Katari Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KATARI BLACK";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Kavivanar;
-	panose-1:2 0 5 3 0 0 0 0 0 0;}
-@font-face
 	{font-family:Kefa;
 	panose-1:2 0 5 6 0 0 0 2 0 4;}
 @font-face
@@ -1011,42 +633,6 @@
 @font-face
 	{font-family:"Khmer Sangam MN";
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Klee Medium";
-	panose-1:2 2 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Klee Demibold";
-	panose-1:2 2 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:KoHo;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Kodchasan;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Kohinoor Bangla Light";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
@@ -1099,41 +685,11 @@
 	{font-family:Kokonor;
 	panose-1:1 0 5 0 0 0 0 2 0 3;}
 @font-face
-	{font-family:"Krub ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Krub Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Krub;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Krub Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Krub SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Krungthep;
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:KufiStandardGK;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi Bold";
-	panose-1:0 0 8 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Lao MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
@@ -1141,89 +697,17 @@
 	{font-family:"Lao Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Lava Devanagari";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Devanagari Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Devanagari Heavy";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Regular";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Medium";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Bold";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Heavy";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Regular";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Medium";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Bold";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Heavy";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Apple LiGothic Medium";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LIHEI PRO";
-	panose-1:2 11 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LISONG PRO";
-	panose-1:2 2 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Apple LiSung Light";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Lucida Grande";
 	panose-1:2 11 6 0 4 5 2 2 2 4;}
 @font-face
 	{font-family:Luminari;
 	panose-1:2 0 5 5 0 0 0 2 0 4;}
 @font-face
-	{font-family:"LingWai SC Medium";
-	panose-1:3 5 6 2 4 3 2 2 2 4;}
-@font-face
-	{font-family:"LingWai TC Medium";
-	panose-1:3 5 6 2 4 3 2 2 2 4;}
-@font-face
-	{font-family:Maku;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Maku Bold";
-	panose-1:0 0 8 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Malayalam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Malayalam Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Mali;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Marker Felt Thin";
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
@@ -1236,9 +720,6 @@
 @font-face
 	{font-family:"Microsoft Sans Serif";
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:Modak;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Monaco;
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -1254,27 +735,6 @@
 @font-face
 	{font-family:"MSHTAKAN BOLDOBLIQUE";
 	panose-1:2 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta ExtraLight";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Light";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Medium";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta SemiBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta ExtraBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"MuktaMahee ExtraLight";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -1297,48 +757,6 @@
 	{font-family:"MuktaMahee ExtraBold";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Mukta Malar ExtraLight";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Light";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Medium";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar SemiBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar ExtraBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani ExtraLight";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Light";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Medium";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani SemiBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani ExtraBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Muna;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
@@ -1348,24 +766,6 @@
 	{font-family:Nadeem;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Nanum Brush Script";
-	panose-1:3 6 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Nanum Pen Script";
-	panose-1:3 4 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:NanumGothic;
-	panose-1:2 13 6 4 0 0 0 0 0 0;}
-@font-face
-	{font-family:"NANUMGOTHIC EXTRABOLD";
-	panose-1:2 13 9 4 0 0 0 0 0 0;}
-@font-face
-	{font-family:NanumMyeongjo;
-	panose-1:2 2 6 3 2 1 1 2 1 1;}
-@font-face
-	{font-family:NANUMMYEONGJOEXTRABOLD;
-	panose-1:2 2 6 3 2 1 1 2 1 1;}
-@font-face
 	{font-family:"New Peninim MT";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
@@ -1374,21 +774,6 @@
 @font-face
 	{font-family:"NEW PENINIM MT BOLD INCLINED";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Niramit;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Noteworthy Light";
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
@@ -1507,30 +892,6 @@
 	{font-family:"Noto Sans Tagalog";
 	panose-1:2 11 5 2 4 5 4 2 2 4;}
 @font-face
-	{font-family:"Noto Serif Kannada Thin";
-	panose-1:2 2 2 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada ExtraLight";
-	panose-1:2 2 3 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada Light";
-	panose-1:2 2 4 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada";
-	panose-1:2 2 5 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada Medium";
-	panose-1:2 2 6 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada SemiBold";
-	panose-1:2 2 7 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada ExtraBold";
-	panose-1:2 2 9 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada Black";
-	panose-1:2 2 10 2 6 5 5 2 2 4;}
-@font-face
 	{font-family:"Noto Serif Myanmar Thin";
 	panose-1:2 2 2 2 6 5 5 2 2 4;}
 @font-face
@@ -1555,147 +916,6 @@
 	{font-family:"Noto Serif Myanmar Blk";
 	panose-1:2 2 10 2 6 5 5 2 2 4;}
 @font-face
-	{font-family:"October Compressed Devanagari H";
-	panose-1:0 0 9 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari T";
-	panose-1:0 0 2 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari E";
-	panose-1:0 0 3 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari L";
-	panose-1:0 0 5 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari";
-	panose-1:0 0 5 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari M";
-	panose-1:0 0 6 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari B";
-	panose-1:0 0 8 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Hairli";
-	panose-1:0 0 1 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Thin";
-	panose-1:0 0 2 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil ExtraL";
-	panose-1:0 0 3 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Light";
-	panose-1:0 0 4 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil";
-	panose-1:0 0 5 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Medium";
-	panose-1:0 0 6 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Heavy";
-	panose-1:0 0 9 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Black";
-	panose-1:0 0 10 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Ha";
-	panose-1:0 0 1 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Th";
-	panose-1:0 0 2 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Ex";
-	panose-1:0 0 3 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Li";
-	panose-1:0 0 4 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari";
-	panose-1:0 0 5 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Me";
-	panose-1:0 0 6 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari He";
-	panose-1:0 0 9 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Bl";
-	panose-1:0 0 10 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Hairlin";
-	panose-1:0 0 1 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Thin";
-	panose-1:0 0 2 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil ExtraLi";
-	panose-1:0 0 3 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Light";
-	panose-1:0 0 4 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil";
-	panose-1:0 0 5 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Medium";
-	panose-1:0 0 6 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Heavy";
-	panose-1:0 0 9 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Black";
-	panose-1:0 0 10 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Hairline";
-	panose-1:0 0 1 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Thin";
-	panose-1:0 0 2 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Heavy";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Hairline";
-	panose-1:0 0 1 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Thin";
-	panose-1:0 0 2 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Heavy";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Optima;
 	panose-1:2 0 5 3 6 0 0 2 0 4;}
 @font-face
@@ -1707,21 +927,6 @@
 @font-face
 	{font-family:"Oriya Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Osaka;
-	panose-1:2 11 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:OSAKA-MONO;
-	panose-1:2 11 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"PSL Ornanong Pro Light";
-	panose-1:2 0 5 6 0 0 0 2 0 4;}
-@font-face
-	{font-family:"PSL Ornanong Pro";
-	panose-1:2 0 5 6 0 0 0 2 0 4;}
-@font-face
-	{font-family:"PSL ORNANONG PRO DEMIBOLD";
-	panose-1:2 0 5 6 0 0 0 2 0 4;}
 @font-face
 	{font-family:"PT Mono";
 	panose-1:2 6 5 9 2 2 5 2 2 4;}
@@ -1740,9 +945,6 @@
 @font-face
 	{font-family:"PT Serif Caption";
 	panose-1:2 6 6 3 5 5 5 2 2 4;}
-@font-face
-	{font-family:"Padyakke Expanded One";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Palatino;
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -1768,21 +970,6 @@
 	{font-family:Raanana;
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:Hei;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Kai;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Baoli SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Baoli TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:STHeiti;
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
 	{font-family:"Heiti TC Light";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
 @font-face
@@ -1807,27 +994,6 @@
 	{font-family:"STIX Two Text SemiBold";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Kaiti SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"KAITI SC BLACK";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:STKaiti;
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Kaiti TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"KAITI TC BLACK";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Libian SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Libian TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
 	{font-family:"Songti SC Light";
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
@@ -1846,155 +1012,14 @@
 	{font-family:STSong;
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
-	{font-family:"Xingkai SC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Xingkai SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Xingkai TC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Xingkai TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti SC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti TC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Sama Devanagari Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari ExtraBold";
-	panose-1:3 8 10 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Gujarati Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati";
-	panose-1:2 15 6 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati ExtraBold";
-	panose-1:2 15 10 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi ExtraBold";
-	panose-1:3 8 10 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Kannada Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada ExtraBold";
-	panose-1:3 8 10 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Malayalam Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam";
-	panose-1:2 15 6 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam ExtraBold";
-	panose-1:2 15 10 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Tamil Book";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil Medium";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil SemiBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
 	{font-family:Sana;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun Thin";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Sarabun;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun ExtraBold";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Sathu;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"SAVOYE LET PLAIN\:1\.0";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Shobhika Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Shobhika Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Shree Devanagari 714";
 	panose-1:2 0 6 0 0 0 0 0 0 0;}
@@ -2007,9 +1032,6 @@
 @font-face
 	{font-family:Silom;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:SimSong;
-	panose-1:2 2 3 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Sinhala MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
@@ -2025,9 +1047,6 @@
 @font-face
 	{font-family:"SNELL ROUNDHAND BLACK";
 	panose-1:2 0 10 4 9 0 0 9 0 4;}
-@font-face
-	{font-family:Srisakdi;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:SUKHUMVITSET-THIN;
 	panose-1:2 0 5 6 0 0 0 2 0 4;}
@@ -2056,92 +1075,17 @@
 	{font-family:"Telugu Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Tiro Bangla";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Devanagari Hindi";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Devanagari Marathi";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Devanagari Sanskrit";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Gurmukhi";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Kannada";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Tamil";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Telugu";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Gothic Regular";
-	panose-1:2 11 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Midashi Gothic Ex";
-	panose-1:2 11 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Midashi Mincho Ex";
-	panose-1:2 2 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Mincho Regular";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Trattatello;
 	panose-1:2 15 4 3 2 2 0 2 3 3;}
 @font-face
 	{font-family:"Trebuchet MS";
 	panose-1:2 11 6 3 2 2 2 2 2 4;}
 @font-face
-	{font-family:"Tsukushi A Round Gothic Regular";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tsukushi A Round Gothic Bold";
-	panose-1:2 2 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tsukushi B Round Gothic Regular";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tsukushi B Round Gothic Bold";
-	panose-1:2 2 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Waseem Light";
 	panose-1:0 0 3 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Waseem;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuKyokasho Yoko Medium";
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuKyokasho Yoko";
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuKyokasho Medium";
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:YuKyokasho;
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuMincho +36p Kana Medium";
-	panose-1:2 2 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuMincho +36p Kana Demibold";
-	panose-1:2 2 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuMincho +36p Kana Extrabold";
-	panose-1:2 2 8 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Yuppy SC";
-	panose-1:2 15 6 3 4 2 7 2 2 4;}
-@font-face
-	{font-family:"Yuppy TC";
-	panose-1:2 15 6 3 4 2 7 2 2 4;}
 @font-face
 	{font-family:Zapfino;
 	panose-1:3 3 3 0 4 7 7 7 12 3;}
@@ -2953,6 +1897,9 @@
 	{font-family:"Chamberi Super Display";
 	panose-1:2 4 5 3 8 5 5 2 3 3;}
 @font-face
+	{font-family:Charmonman;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"Chilgok Gwon Anja";
 	panose-1:2 2 6 3 2 1 1 2 1 1;}
 @font-face
@@ -3117,6 +2064,21 @@
 @font-face
 	{font-family:Euphemia;
 	panose-1:2 11 5 3 4 1 2 2 1 4;}
+@font-face
+	{font-family:"Fahkwang ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Fahkwang;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Fairwater Script Light";
 	panose-1:2 0 5 7 0 0 0 2 0 3;}
@@ -3826,6 +2788,21 @@
 	{font-family:"Kristen ITC";
 	panose-1:3 5 5 2 4 2 2 3 2 2;}
 @font-face
+	{font-family:"Krub ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Krub;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"Kunstler Script";
 	panose-1:3 3 4 2 2 6 7 13 13 6;}
 @font-face
@@ -4087,14 +3064,26 @@
 	{font-family:"Mystical Woods Smooth Script";
 	panose-1:2 0 5 0 0 0 0 0 0 0;}
 @font-face
+	{font-family:"Nanum Brush Script";
+	panose-1:3 6 6 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"Nanum Pen";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumGothic;
+	panose-1:2 13 6 4 0 0 0 0 0 0;}
 @font-face
 	{font-family:NanumGothicExtraBold;
 	panose-1:2 13 9 4 0 0 0 0 0 0;}
 @font-face
 	{font-family:NanumGothicCoding;
 	panose-1:2 13 0 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumMyeongjo;
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:NanumMyeongjoExtraBold;
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
 @font-face
 	{font-family:Narkisim;
 	panose-1:2 14 5 2 5 1 1 1 1 1;}
@@ -5347,6 +4336,9 @@
 	{font-family:STFangsong;
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
+	{font-family:STKaiti;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
 	{font-family:STXihei;
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
@@ -5596,19 +4588,19 @@
 	{font-family:Yesteryear;
 	panose-1:3 2 8 2 4 6 7 7 8 2;}
 @font-face
+	{font-family:DFKai-SB;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:華康粗黑體;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:華康粗明體;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
 	{font-family:Chicago;
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"\@PMingLiU";
-	panose-1:2 1 6 1 0 1 1 1 1 1;}
-@font-face
-	{font-family:"AR CENA";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"Proxima Nova";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:SuperGreek;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, .word-content div.MsoNormal
@@ -5701,6 +4693,6 @@ ul
 	{margin-bottom:0in;}
 &lt;/style>
 &lt;div class="word-content">
-&lt;p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'>&lt;b>&lt;span
+&lt;p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center'>&lt;b>&lt;span
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
 CONVERSATIONAL VERSION&lt;/span>&lt;/b>&lt;/p></description></item></channel></rss>
